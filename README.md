@@ -3,6 +3,7 @@
 ETL and analytics
 
 -pdf 
+--98point6homework.pdf 
 --98point6.pdf # all the questions, solutions and related details
 
 -python executables
