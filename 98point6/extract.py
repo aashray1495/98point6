@@ -12,5 +12,3 @@ for page in range(500):
     for row in data:
         f.writerow([row['id'],row['data']['nat'],row['data']['gender']])
 
-COPY player(player_id,country,gender)
-FROM '/Users/aashrayyadav/desktop/96point6_th/country.csv' DELIMITER ',' CSV HEADER;
